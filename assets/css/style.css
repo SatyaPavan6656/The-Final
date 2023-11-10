@@ -1140,7 +1140,7 @@ body a {
   /* max-height: 400px; */
   overflow-y: auto;
   font-size: 18px !important;
-  max-width: max-content !important;
+  max-width: max-content ;
 }
 
 .table {
